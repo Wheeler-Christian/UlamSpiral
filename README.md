@@ -1,6 +1,9 @@
 # UlamSpiral
 Making an Ulam Spiral. With rainbow colors.
 
+If you do not know what an Ulam Spiral is, it is a thing in mathematics, involving prime numbers. Look here to learn more:
+![p](https://mathworld.wolfram.com/PrimeSpiral.html)
+
 The number 1 is gray so the eye knows where to start.
 The prime numbers are all black, as usual.
 
