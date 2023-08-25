@@ -8,6 +8,10 @@ body{
     color: #ccc;
 }
 
+a{
+    color: cadetblue;
+}
+
 td{
     width: 12mm;
     height: 12mm;
