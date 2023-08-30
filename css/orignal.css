@@ -1,0 +1,5 @@
+/* composite numbers have black text color*/
+.composite{
+    background-color: gray;
+    color: black;
+}

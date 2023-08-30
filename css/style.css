@@ -1,7 +1,4 @@
-/*
-Color scheme found at
-https://www.schemecolor.com/rainbow-colors-for-kids.php
-*/
+/* This style sheet applies to all the html in this project */
 
 body{
     background-color: #333;
@@ -10,6 +7,10 @@ body{
 
 a{
     color: cadetblue;
+}
+
+table{
+    border-spacing: 1px;
 }
 
 td{
@@ -23,46 +24,14 @@ td{
 
 /* the number 1 */
 #n1{
-    background-color: #999;
+    background-color: #aaa;
     color: black;
 }
 
-/* prime numbers
+/* prime numbers */
 .prime{
     background-color: black;
     color: #ccc;
-}*/
-
-/**/
-.composite{
-    color: black;
-}
-
-/* multiple of 2 red */
-.mult2{
-    background-color: #e6261f;
-}
-
-/* multiple of 3 orange */
-.mult3{
-    /*background-color: orange;*/
-    background-color: #eb7532;
-}
-
-/* multiple of 5 yellow */
-.mult5{
-    /*background-color: yellow;*/
-    background-color: #FFEE00;
-}
-
-/* multiple of 7 green */
-.mult7{
-    background-color: #4DE94C;
-}
-
-/* multiple of 11 blue */
-.mult11{
-    background-color: #3783FF;
 }
 
 .hidden{
